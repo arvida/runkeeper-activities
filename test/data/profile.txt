@@ -1,0 +1,1857 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Set-Cookie: JSESSIONID=B~2E78236007F0B58DEE3C1DEF65AC5905; Path=/
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Transfer-Encoding: chunked
+Date: Thu, 02 Jun 2011 08:24:24 GMT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+      
+      
+   
+
+
+
+
+   
+   
+   <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+   <html xmlns="http://www.w3.org/1999/xhtml"
+         xmlns:og="http://opengraphprotocol.org/schema/"
+         xmlns:fb="http://www.facebook.com/2008/fbml"
+         xmlns:v="urn:schemas-microsoft-com:vml" xml:lang="en" lang="en">
+      <head>
+         <title>Running Activity 10.26 km  | RunKeeper</title>
+         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+         
+         <meta name="google-site-verification" content="-590n5e3s1FWV2Ytzw-9zb_ZoLRBm4oAdoe4g8PrFP4" />
+         
+         
+         
+         <meta name="keywords" content="Arvid Andersson, Running Activity, , "/>
+         
+         <meta name="viewport" content="width = 990">
+         
+         <meta property="og:title" content="Running Activity 10.26 km "/>
+         <meta property="og:type" content="Running"/>
+         <meta property="og:url" content="http://runkeeper.com/activity_redirect/mg8p9"/>
+         <meta property="og:description" content="Arvid Andersson's Running Activity 10.26 km "/>
+         <meta property="og:image" content="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-runkeeper.png"/>
+         
+         
+         
+         
+         
+         
+         
+         <meta property="og:site_name" content="RunKeeper"/>
+         <meta property="fb:app_id" content="62572192129"/>
+         
+         
+            
+            <meta name="description" content="Arvid Andersson&#039;s Running Activity 10.26 km"/>
+         
+         
+         <link rel="shortcut icon" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/favicon.ico" type="image/x-icon"/>
+         <link rel="icon" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/favicon.ico" type="image/x-icon"/>
+         
+         <link rel="image_src" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-runkeeper.png" />
+         <link rel="apple-touch-icon" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/apple-touch-icon.png"/>
+         
+         
+         
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/layout.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/fullscreen.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/settings.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/create.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/profile.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/activities.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/elite.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/streetteam.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/routes.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/races.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/edit.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/android.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/jquery.ui.datepicker.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/howitworks.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/buttons.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/fitnessReports.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/landingPage.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/homepage.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/about.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/content.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/login.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/search.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/home.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/uniform.agent.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/jquery.alerts.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/jquery.tiptip.css" media="screen"/>
+   <link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/jquery.fancybox-1.3.1.css" media="screen"/>
+   
+   
+   
+   <!--[if IE 7]><link type="text/css" rel="stylesheet" href="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/css/ie7.css"><![endif]-->
+   
+
+      
+         
+         
+         
+         
+         
+
+
+<script type="text/javascript">
+var appRoot = "/";
+var contextPath = "";
+var staticRoot = "http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static";
+var baseHostUrl = "http://runkeeper.com";
+var baseHostUrlSsl = "https://runkeeper.com";
+var statusUpdatePhotoBaseUrl = "http://s3.amazonaws.com/tripphoto.runkeeper.com";
+</script>
+
+         
+
+
+
+<script type="text/javascript">
+var metersPerMile = 1609.344;
+var milesPerMeter = 6.213711922373339E-4;
+var feetPerMeter  = 3.2808399;
+var kmPerMeter    = 0.0010;
+var mphPerMps     = 2.23693629;
+var kmphPerMps    = 3.6;
+var lbsPerKg      = 2.20462262;
+
+var tripTypeImages = [];
+
+tripTypeImages["Running"] = "running";
+
+tripTypeImages["Cycling"] = "cycling";
+
+tripTypeImages["Mountain Biking"] = "mountainbiking";
+
+tripTypeImages["Walking"] = "walking";
+
+tripTypeImages["Hiking"] = "hiking";
+
+tripTypeImages["Downhill Skiing"] = "downhillskiing";
+
+tripTypeImages["Cross-Country Skiing"] = "crosscountryskiing";
+
+tripTypeImages["Snowboarding"] = "snowboarding";
+
+tripTypeImages["Skating"] = "skating";
+
+tripTypeImages["Swimming"] = "swimming";
+
+tripTypeImages["Wheelchair"] = "wheelchair";
+
+tripTypeImages["Rowing"] = "rowing";
+
+tripTypeImages["Elliptical"] = "elliptical";
+
+tripTypeImages["Other"] = "other";
+
+</script>
+
+         
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery-1.4.2.min.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery.cycle.all.min.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery.jcarousel.pack.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery.label-over.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery.uniform.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery-ui-1.8.1.min.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery.validate.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery.alerts.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery.elastic.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery.tipTip.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery.fancybox-1.3.1.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery.easing-1.3.pack.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/jquery.mousewheel-3.0.2.pack.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/js/highcharts.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/js/common_util.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/js/ajaxfileupload.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/js/races/common.js"></script>
+         <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/js/tagging/friendSelectionEditWidget.js"></script>
+         
+         <script type="text/javascript">
+            var FB_withLoginStatus = [];
+            var addCommentUrl = '/comment?add=';
+            var deleteCommentUrl = '/comment?delete=';
+            var deleteFeedItemUrl = '/deleteFeedItem';
+         </script>   
+         
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+      
+      
+   
+
+
+
+<script type="text/javascript">
+  var _kmq = _kmq || [];
+  function _kms(u){
+    setTimeout(function(){
+      var s = document.createElement('script'); var f = document.getElementsByTagName('script')[0]; s.type = 'text/javascript'; s.async = true;
+      s.src = u; f.parentNode.insertBefore(s, f);
+    }, 1);
+  }
+ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ba26cd2e1c3794ae47a196b5a8355e163f73e215.1.js');
+ 
+</script>
+
+
+
+      </head>
+      
+      <body>
+      
+         
+      
+         
+         
+         <div id="wrapper">  
+            <div class="wrapper-bg-top"></div>
+            
+               
+               
+                  <div id="header" class="loggedout">
+                     <div id="headerContent">             
+                        <a id="siteLogo" href="/"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/logo-hp.png" width="370" height="90" alt="RunKeeper" title="RunKeeper" border="0" /></a>
+                        
+                        
+                           <div class="headerSignupContainer">
+                              <div class="blueButton-medium"> 
+                                 <div class="l"></div> 
+                                 <div class="m"> 
+                                       <a class="mainText" href="/">Sign Up</a> 
+                                 </div> 
+                                 <div class="r"></div> 
+                              </div>
+                           </div>
+                           
+                           <div id="signinContainer"> 
+                              <form name="loginForm" action="/login" method="post">
+                                 
+                                 <input name="_eventName" value="login" type="hidden" />
+                                 <input name="redirectUrl" value="/activity/37709325?username=arvida" type="hidden" />
+                                 <div class="signinRow" id="signinUsername">
+                                    <label for="username">Email:</label>
+                                    <input id="email" name="email" type="text" />
+                                 </div>
+                                 <div class="signinRow" id="signinPassword">
+                                    <label for="password">Password:</label>
+                                    <input id="password" name="password" type="password" />
+                                 </div>
+                                 <div class="signinRow" id="signinForgot">
+                                    <a id="forgotPasswordLink" class="right" href="/login#forgotpassword">forgot password?</a> 
+                                    <div class="clear"></div>
+                                 </div>
+                                 <div class="signinRow" id="signinSubmit">
+                                    <div onclick="document.loginForm.submit();" id="loginButton-submit" class="blueButton-small"> 
+                                       <div class="l"></div>
+                                       <div class="m">
+                                          <div class="mainText">Log In</div>
+                                       </div>
+                                       <div class="r"></div>
+                                    </div>
+                                </div>
+                                <input type="submit" style="position: absolute; top: -1000px;"/> 
+                               <div style="display: none;"><input type="hidden" name="_sourcePage" value="soXJnyaB_bKW1uLFSpOPcr0Nc2_Q6VrwceiWvDAUeLU=" /><input type="hidden" name="__fp" value="qm64HFRaghY=" /></div></form>
+                           </div>
+                        
+                     </div>
+                  </div>        
+               
+            
+                  
+            
+         
+         
+         
+         
+         
+            
+            
+            
+            
+            
+            
+             
+         
+         
+         <div id="subNavContainer" class="">
+            <div id="subNav" class="navigation ">
+               <div id="subNavMain">
+                  
+                  
+                     <div class="profileBoxSmall">
+                        <div class="avatarSmall">
+                           
+   <div class="avatarContainer">
+      
+      
+         
+         
+            
+         
+      
+      
+      
+      
+      
+         
+            <a uid="849441" class="avatar" href="/user/arvida/profile"><img src="http://s3.amazonaws.com/profilepic.runkeeper.com/5efrz7a3uZ9pZeCj0bDKiFUj_sm.jpg?" title="Arvid Andersson"/></a>
+         
+         
+      
+      <div class="clear"></div>
+   </div>
+
+                        </div>
+                        
+                        
+                           
+                           
+                              
+                                 
+                                 
+                                    
+                                 
+                              
+                           
+                        
+                        
+                        <div class="username smallText" id="userLayoutUsername">
+                           
+
+   
+
+   
+   
+   
+        
+      
+         <a class="usernameLink" href="/user/arvida/profile">Arvid Andersson</a>
+      
+   
+
+
+                           <div class="clear"></div>
+                        </div>
+                        <div id="monthlyActivities">
+   <!--                        <span id="monthlyActivitiesNumber">1</span>-->
+   <!--                        <span id="monthlyActivitiesText">activities this month</span>-->
+                            <span id="monthlyActivitiesText">arvida</span>
+                        </div>
+                        <div class="clear profileSubNav"></div>
+                     </div>
+                  
+                     
+                  <div id="subNavBox">
+                     <a class="" href="/user/arvida/profile">Profile</a>
+                     <a class="selected" href="/user/arvida/activity">Activities</a>
+                     <a class="" href="/user/arvida/route">Routes</a>
+                     <a class="" href="/user/arvida/streetTeam">Street Team</a>
+                     <a class="" href="/user/arvida/fitnessReports">FitnessReports</a>                  
+                     <a class="" href="/user/arvida/races">Races</a>
+                     <a class="" href="/user/arvida/fitnessclasses">FitnessClasses</a>
+                  </div>
+                  
+                  <div class="clear"></div>
+               </div>
+            </div>
+         </div>
+         
+         
+       
+         
+         
+            
+         
+         
+         
+       
+         <div id="content" class="twoColumn">
+         <div id="leftColumn">
+            <h3>
+                  
+                  Activity History
+               </h3>
+               <div id="activityHistoryMenu">                 
+                  <script type="text/javascript">
+                     $(function(){
+                        $("#activityHistoryMenu").accordion({ 
+                             header: ".accordion",
+                             animation: "bounceslide",
+                             clearStyle: true,
+                             autoHeight: false,
+                             collapsible: true,
+                             active: ".open"
+                        });
+                        $(".accordianCellContents").show();
+
+                        if ($("div.mainContentRight").hasClass("nosplits"))
+                        {
+                           var commentContainerHeight = $(".commentsOuterContainer").height();
+                           $(".mainContentRight").css("height", commentContainerHeight + 20);
+                        };
+                     });
+                  </script>
+                  
+                  
+                  
+                     
+                     
+                     
+                        
+                        
+                     
+                  
+                     <div class="accordion open">
+                        <div class="accordion-l"></div>
+                        <div class="accordion-m">
+                           <div class="mainText">Wed Jun 01 18:16:16 UTC 2011</div>
+                           <div class="bubble">
+                              <div class="bubble-l"></div>
+                              <div class="bubble-m"></div>
+                              <div class="bubble-text">1</div>
+                              <div class="bubble-r"></div>
+                           </div>
+                        </div>
+                        <div class="navStatusArrow"></div>
+                        <div class="accordion-r"></div>
+                     </div>
+
+                     <div class="monthContainer">              
+                        
+                           <div class="accordianCellContents" style="">
+                              
+                              
+                                 
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem selected" link="/user/arvida/activity/37709325">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">10.26</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-1.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                     
+                     </div>
+                     
+                  
+                  
+                     
+                     
+                     
+                  
+                     <div class="accordion ">
+                        <div class="accordion-l"></div>
+                        <div class="accordion-m">
+                           <div class="mainText">Mon May 30 19:38:59 UTC 2011</div>
+                           <div class="bubble">
+                              <div class="bubble-l"></div>
+                              <div class="bubble-m"></div>
+                              <div class="bubble-text">15</div>
+                              <div class="bubble-r"></div>
+                           </div>
+                        </div>
+                        <div class="navStatusArrow"></div>
+                        <div class="accordion-r"></div>
+                     </div>
+
+                     <div class="monthContainer">              
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/37459736">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">5.86</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-30.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/37211838">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">10.02</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-28.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/36998025">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">4.85</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-26.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/36729887">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">10.26</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-24.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/36479025">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">8.75</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-22.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/36221777">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">8.40</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-20.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/35849792">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">7.75</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-17.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/35606356">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">8.06</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-15.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/35366080">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">6.38</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-13.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/35120379">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">7.60</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-11.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/34831375">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">7.41</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-9.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/34549824">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">7.34</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-7.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/34317605">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">6.41</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-5.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/34058692">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">6.64</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-3.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/33771151">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">6.99</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-1.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                     
+                     </div>
+                     
+                  
+                  
+                     
+                     
+                     
+                  
+                     <div class="accordion ">
+                        <div class="accordion-l"></div>
+                        <div class="accordion-m">
+                           <div class="mainText">Thu Apr 28 18:30:51 UTC 2011</div>
+                           <div class="bubble">
+                              <div class="bubble-l"></div>
+                              <div class="bubble-m"></div>
+                              <div class="bubble-text">9</div>
+                              <div class="bubble-r"></div>
+                           </div>
+                        </div>
+                        <div class="navStatusArrow"></div>
+                        <div class="accordion-r"></div>
+                     </div>
+
+                     <div class="monthContainer">              
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/33460111">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">6.36</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-28.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/33212901">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">5.57</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-26.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/32232141">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">5.86</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-18.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                           
+                        
+                           <div class="accordianCellContents" style="display:none">
+                              
+                              
+
+                              
+                                                                                                                                                  
+                              <div class="activityMonth menuItem " link="/user/arvida/activity/31985246">
+                                 <div class="highlight"></div>
+                                 <div class="distanceUnit">km.</div>
+                                 <div class="distance">5.64</div>
+                                 
+                                    
+                                    
+                                       <div class="day"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-calendar-16.png" width="24" height="26" border="0" /></div>
+                                    
+                                 
+                                 <div class="mainText">Running</div>
+                              </div>
+                              <div class="divider"></div>
+                           </div>
+                     
+                     </div>
+                     
+                  
+                  
+               </div>
+            </div>
+            <div id="mainColumn">
+            <div id="activityDetails">
+               <div id="activityTitleBar">
+                  <div id="activityActions"> 
+                     
+                     
+                     
+                    </div>
+                  <div id="activityDateType">
+                  	<div id="activityIcon"><img src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/icon-running-20.png" width="20" height="20" alt="running" title="running" border="0" /></div>
+                     <div id="activityTypeText">Running</div>
+                     
+                     <div class="dividerWhite left"></div>
+                     <div id="activityDateText">                              
+                        Wed Jun 01 18:16:16 UTC 2011&nbsp;&nbsp;::&nbsp;&nbsp;<span class="secondary">Wed Jun 01 18:16:16 UTC 2011 - Wed Jun 01 19:23:34 UTC 2011</span>
+                     </div>                              
+                  </div>
+                </div>
+                
+                
+                <div id="activityStats" class="">
+                  <div id="activityStatsReflection"></div>
+                  <div id="statsDistance" class="activityStatsItem">
+                     <div class="labelText">Distance</div>                              
+                     <div class="mainText">10.26</div>
+                     <div class="unitText">km</div>
+                  </div>
+                  <div class="activityStatsDivider"></div>
+                  <div id="statsDuration" class="activityStatsItem">
+                     <div class="labelText">Duration</div>
+                     <div class="mainText">1:07:18</div>
+                     <div class="unitText">h : m : s</div>
+                  </div>
+                  <div class="activityStatsDivider"></div>
+                  <div id="statsPace" class="activityStatsItem">
+                     <div class="labelText">Avg. Pace</div>
+                     <div class="mainText">6:34</div>
+                     <div class="unitText">min/km</div>
+                  </div>
+                  <div class="activityStatsDivider"></div>
+                  <div id="statsSpeed" class="activityStatsItem">
+                     <div class="labelText">Avg. Speed</div>
+                     <div class="mainText">9.15</div>
+                     <div class="unitText">km/h</div>
+                  </div>
+                  <div class="activityStatsDivider"></div>
+                  <div id="statsCalories" class="activityStatsItem">
+                     <div class="labelText">Burned</div>
+                     <div class="mainText">919.0</div>
+                     <div class="unitText">calories</div>
+                  </div>
+                  <div class="activityStatsDivider"></div>
+                  <div id="statsElevation" class="activityStatsItem">
+                     <div class="labelText">Climb</div>
+                     <div class="mainText">76</div>
+                     <div class="unitText">m</div>
+                  </div>
+                  <div class="activityStatsDivider heartRate"></div>
+                  <div id="statsHeartRate" class="activityStatsItem">
+                     <div class="labelText">Avg. Heart Rate</div>
+                     <div class="mainText"></div>
+                     <div class="unitText">bpm</div>
+                  </div>
+                </div>
+            </div>
+               
+            
+            
+            <script type="text/javascript">
+                
+                var activityInfoCallbacks = [];
+            </script>
+               
+            
+               
+                       
+   <script type="text/javascript" src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAiq3Lb9niOOm8CCrnvwEn9xTGaoW9nBFz1Eu2t23hJUwY-FqipBT-938HrLrlPvXmiGLh0i955g2D2Q"></script>
+   <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/js/markermanager.js"></script>
+   <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/js/map.js"></script>
+   <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/js/photos.js"></script>
+   <script type="text/javascript" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/js/mapTooltip.js"></script>
+   <script type="text/javascript">
+      function initPrettyPhotoTriggers(jqSelectorStr, showTitle, allowresize)
+      {
+         $(jqSelectorStr).fancybox({
+        	   padding            : 10,
+       	   cyclic             : true,
+       	   autoDimensions     : true,
+            hideOnContentClick : true,
+       	   overlayOpacity     : 0.6
+         });
+      }
+   
+      var rkMap;
+      $("body").unload(GUnload);
+      
+      $(function(){
+         rkMap = initMap("map_canvas", "km");
+         rkMap.gmap.addControl(new GMenuMapTypeControl());
+         rkMap.gmap.addMapType(G_PHYSICAL_MAP);
+         rkMap.gmap.addControl(new GSmallZoomControl());
+         rkMap.gmap.addControl(new GScaleControl());
+      });
+
+      activityInfoCallbacks.push(function(activityInfo)
+      {
+         if (activityInfo == null) return;
+           
+         // Update map & route
+         rkMap.points = activityInfo.points;
+         if (activityInfo.routePoints)
+         {
+            try { rkMap.routePoints = eval(activityInfo.routePoints); } catch (e) {}
+         }
+
+         if(activityInfo.racePoints)
+         {
+        	 try { rkMap.racePoints = eval(activityInfo.racePoints); } catch (e) {}   
+         }
+         
+         updateMap(rkMap, activityInfo.isLive);
+         fitPath(rkMap);          
+
+         if(activityInfo.statusUpdates)
+         {
+            rkMap.statusUpdates = activityInfo.statusUpdates;
+            overlayStatusUpdates(rkMap);
+            refreshPhotoViewer(activityInfo.statusUpdates);
+         }                      
+      });
+   </script>
+
+   <div id="map_area">
+      <div class="greyBorder tl"></div>
+      <div class="greyBorder t"></div>
+      <div class="greyBorder tr"></div>
+      <div class="greyBorder rt"></div>
+      <div class="greyBorder rb"></div>
+      <div class="greyBorder br"></div>
+      <div class="greyBorder b"></div>
+      <div class="greyBorder bs"></div>
+      <div class="greyBorder bl"></div>
+      <div class="greyBorder lt"></div>
+      <div class="greyBorder lb"></div>
+      <div id="mapping_tool">
+         <div id="map_canvas"></div>
+         <div id="activityMedia">
+         <div class="blackBox">
+            <div class="blackBox-tl"></div>
+            <div class="blackBox-t"></div>
+            <div class="blackBox-tr"></div>
+            <div class="blackBox-bl"></div>
+            <div class="blackBox-b"></div>
+            <div class="blackBox-br"></div>
+            <div class="blackBox-content">
+               <ul id="carousel" class="jcarousel-skin-tango">         
+                  <!-- thumbnail image list items are injected here -->         
+               </ul>
+            </div>
+         </div>
+     </div>
+      <div id="mapControls">
+         <div id="mapActions">
+            <div id="viewFullscreen" class="mapControlItem right">
+               <div class="buttonText"></div>
+            </div>
+            <div id="backFullscreen" class="mapControlItem right selected">
+               <div class="buttonText"></div>
+            </div>
+            <div class="dividerGrey right"></div>
+            
+            <div class="dividerGrey right"></div>
+            
+            
+            
+            
+               <div id="mapRoute">
+                  <div id="mapRouteLabel">Route:</div>
+                  <div id="mapRouteName">
+                     
+                        
+                        
+                           None
+                                             
+                     
+                  </div>
+                    
+               </div>
+            
+         
+         </div>
+                  
+         </div>
+      </div>
+   </div>   
+
+               
+               
+               
+               
+            
+            
+            
+                     
+   <script type="text/javascript">      
+      var activityChart;
+      var chartData;
+      var chartDataSeriesArray = [];
+      var highchartsOptions = {};
+      var xUnits = null;
+
+      activityInfoCallbacks.push(function(activityInfo)
+      {
+         if (activityInfo == null) return;
+
+         // Render activity chart
+         if (activityInfo.chartData)
+         {
+            chartData = activityInfo.chartData;
+
+            for (var seriesId in chartData.series)
+            {
+               chartData.series[seriesId].visible = true;
+               if (xUnits == null) xUnits = chartData.series[seriesId].xUnits;
+            }
+            
+            // Default to showing pace for running and walking activities
+            if (((activityInfo.activityType == "RUN")  ||
+                 (activityInfo.activityType == "WALK") ||
+                 (activityInfo.activityType == "HIKE")) && chartData.series["SPEED"])
+            {
+               chartData.series["SPEED"].visible = false;
+            }
+            else if (chartData.series["PACE"])
+            {
+               chartData.series["PACE"].visible = false;
+            }
+            
+            renderActivityChart();
+         }
+      });
+
+      function renderActivityChart()
+      {
+         highchartsOptions.chart =
+         {
+            renderTo: "activityChartContainer",
+            margin: [0, 20, 30, 20],
+            zoomType: "x",
+            alignTicks: false
+         };
+
+         highchartsOptions.toolbar =
+         {
+            itemStyle: {
+               margin: "0px 0px 0px 100px"
+            }
+         };
+
+         highchartsOptions.title = {text:""};
+         highchartsOptions.credits = {enabled:false};
+         
+         highchartsOptions.legend = {
+            borderWidth: 0,
+            style: {
+               left: "auto",
+               right: "80px",
+               top: "-15px",
+               bottom: "auto"
+            },
+            itemHiddenStyle: {
+               color: "#888"
+            }
+         };
+         
+         highchartsOptions.series = [];
+         var seriesIndex = 0;
+         var seriesToAdd = chartData.series["ELEVATION"];
+
+         if (chartData.series["ELEVATION"])
+         {
+            chartDataSeriesArray[seriesIndex] = seriesToAdd;
+            
+            highchartsOptions.series[seriesIndex++] = {
+               id:   seriesToAdd.id,
+               name: seriesToAdd.label,
+               data: seriesToAdd.data,
+               type: "area",
+               color: "rgba(22, 137, 13, 1)",
+               fillColor: {
+                  linearGradient: [0, 0, 0, 100],
+                  stops: [
+                     [0, "rgba(62, 177, 53, 0.75)"],
+                     [1, "rgba(22, 137, 13, 0.65)"]
+                  ]
+               },
+               //fillOpacity: 0.65,
+               yAxis: 0,
+               visible: seriesToAdd.visible
+            };
+         }
+
+         if (chartData.series["PACE"])
+         {
+            seriesToAdd = chartData.series["PACE"];
+            chartDataSeriesArray[seriesIndex] = seriesToAdd;
+            
+            highchartsOptions.series[seriesIndex++] = {
+               id:   seriesToAdd.id,
+               name: seriesToAdd.label,
+               data: seriesToAdd.data,
+               type: "area",
+               color: "#332AC2",
+               fillOpacity: 0.25,
+               yAxis: 1,
+               visible: seriesToAdd.visible
+            };
+         }
+
+         if (chartData.series["SPEED"])
+         {
+            seriesToAdd = chartData.series["SPEED"];
+            chartDataSeriesArray[seriesIndex] = seriesToAdd;
+            
+            highchartsOptions.series[seriesIndex++] = {
+               id:   seriesToAdd.id,
+               name: seriesToAdd.label,
+               data: seriesToAdd.data,
+               type: "area",
+               color: "#013AC0",
+               fillOpacity: 0.3,
+               yAxis: 2,
+               visible: seriesToAdd.visible
+            };
+         }
+
+         if (chartData.series["HEARTRATE"])
+         {
+            seriesToAdd = chartData.series["HEARTRATE"];
+            chartDataSeriesArray[seriesIndex] = seriesToAdd;
+            
+            highchartsOptions.series[seriesIndex++] = {
+               id:   seriesToAdd.id,
+               name: seriesToAdd.label,
+               data: seriesToAdd.data,
+               type: "line",
+               color: "#AA3333",
+               yAxis: 3,
+               visible: seriesToAdd.visible
+            };
+         }
+         
+         highchartsOptions.xAxis =
+         {
+            title: {
+               enabled: false
+            },
+            labels: {
+                formatter: function() {return (this.value == 0) ? this.value : this.value + " " + xUnits;}
+            },
+            lineColor: "#99A9B9"
+         };
+         
+         highchartsOptions.yAxis =
+         [
+            {  // ELEVATION
+               gridLineWidth: 0,
+               title: {enabled: false, text: ""},
+               labels: {enabled: false},
+               startOnTick: false,
+               endOnTick: false,
+               max: (chartData.series["ELEVATION"]) ? chartData.series["ELEVATION"].maxValY + ((chartData.series["ELEVATION"].maxValY - chartData.series["ELEVATION"].minValY) * 0.15) : null,
+               min: (chartData.series["ELEVATION"]) ? chartData.series["ELEVATION"].minValY : null
+            },
+            {  // PACE
+               gridLineWidth: 0,
+               title: {enabled: false, text: ""},
+               labels: {enabled: false},
+               maxPadding: 0.15
+            },
+            {  // SPEED
+               gridLineWidth: 0,
+               title: {enabled: false, text: ""},
+               labels: {enabled: false},
+               maxPadding: 0.15
+            },
+            {  // HEARTRATE
+               gridLineWidth: 0,
+               title: {enabled: false, text: ""},
+               labels: {enabled: false},
+               maxPadding: 0.15
+            }
+         ];
+         
+         highchartsOptions.plotOptions =
+         {
+            series: {
+               marker: {
+                  enabled: false,
+                  symbol: "circle",
+                  radius: 4,
+                  states: {
+                     hover: {
+                        enabled: true
+                     }
+                  }
+               },
+               lineWidth: 3,
+               point: {
+                  events: {
+                     mouseOver: function() {syncMapToChartHover(this.x);}
+                  }
+               },
+               events: {
+            	   legendItemClick: function(event) {legendItemClicked(event, this);},
+                  mouseOut: function(event) {if (rkMap) rkMap.currLocMarker.hide();}
+               }
+            }
+         };
+         
+         highchartsOptions.tooltip =
+         {
+            formatter: function()
+            {
+               var pointData = chartData.pointData[this.x.toString()];
+               var timeStr = (pointData) ? "<br/>Time: " + formatTime(pointData.time / 60.0)  : "";
+               var yValStr;
+
+               if (chartDataSeriesArray[this.series.index].id == "PACE")
+               {
+                  yValStr = formatPace(this.y);
+               }
+               else if (chartDataSeriesArray[this.series.index].id == "SPEED")
+               {
+                  yValStr = Highcharts.numberFormat(this.y, 1);
+               }
+               else
+               {
+                  yValStr = Highcharts.numberFormat(this.y, 0);
+               }
+               
+               return "<b>" + this.series.name + ": " + yValStr + " "
+                      + chartDataSeriesArray[this.series.index].yUnits + "</b><br/>"
+                      + "Distance: " + Highcharts.numberFormat(this.x, 2) + " "
+                      + chartDataSeriesArray[this.series.index].xUnits + timeStr;
+            }
+         };
+
+         if (activityChart)
+         {
+            activityChart.destroy();
+         }
+         
+         activityChart = new Highcharts.Chart(highchartsOptions);
+      }
+
+      var rkMap;
+      
+      function syncMapToChartHover(distance)
+      {
+         if (rkMap)
+         {
+            var distanceKey = ("d" + distance).replace(".", "p");
+            var point = rkMap.pointsByDistanceTraveled[distanceKey];
+            setCurrLoc(rkMap, point.latitude, point.longitude);
+         }
+      }
+
+      function legendItemClicked(event, series)
+      {
+         /*
+         if (series.visible)
+         {
+             event.preventDefault();
+         }
+         else
+         {
+            var seriesToHide; 
+             
+            if (chartDataSeriesArray[series.index].id == "SPEED")
+            {
+                seriesToHide = activityChart.get("PACE");
+            }
+            else if (chartDataSeriesArray[series.index].id == "PACE")
+            {
+            	seriesToHide = activityChart.get("SPEED");
+            }
+
+            seriesToHide.hide();
+         }
+         */
+      }
+   </script>
+
+   <div id="activityChartContainer"></div>
+   
+
+            
+               
+            
+            
+            <script type="text/javascript">
+               $(function(){
+                  refreshActivityPointData();
+
+                   $("#distanceSplitsToggle").click(function(){
+                       $("#trainingSplitsToggle").removeClass("selected");
+                       $("#distanceSplitsToggle").addClass("selected");
+                       $("#trainingSplits").fadeOut(function(){
+                           $("#trainingMeta").hide();
+                           $("#distanceSplits").fadeIn();
+                           var splitsHeight = $("#splits").height();
+                           var splitsWidth = $("#splits").width();
+                           $("#splits .greydient-bg").attr("height", splitsHeight).attr("width", splitsWidth);
+                           $("#splits .greydient-bg-box").css("height", splitsHeight).css("width", splitsWidth);
+                           $("#splits .greydient.l, #splits .greydient.r").css("height", splitsHeight-16);
+                       });
+                   });
+
+                   $("#trainingSplitsToggle").click(function(){
+                       $("#trainingSplitsToggle").addClass("selected");
+                       $("#distanceSplitsToggle").removeClass("selected");
+                       $("#distanceSplits").fadeOut(function(){
+                           $("#trainingMeta").show();
+                           $("#trainingSplits").fadeIn();
+                           var splitsHeight = $("#splits").height();
+                           var splitsWidth = $("#splits").width();
+                           $("#splits .greydient-bg").attr("height", splitsHeight).attr("width", splitsWidth);
+                           $("#splits .greydient-bg-box").css("height", splitsHeight).css("width", splitsWidth);
+                           $("#splits .greydient.l, #splits .greydient.r").css("height", splitsHeight-16);
+                       });
+                   });                                           
+                });
+
+               function refreshActivityPointData()
+               {
+                  $.getJSON("/ajax/pointData",
+                        {activityId: 37709325},
+                        function(activityInfo) {
+                           $.each(activityInfoCallbacks, function(callbackIndex, callback) {
+                              callback(activityInfo);
+                           });
+                     });
+               }
+            </script>
+              
+            <div class="mainContentLeft  noFitnessClass">
+               <h3>
+                  
+                  
+                     Splits
+                  
+                </h3>
+               <div id="splits" class="greydientBox">
+                  <div class="greydient-bg-box">
+                     <div class="greydient tl"></div>
+                     <div class="greydient t"></div>
+                     <div class="greydient tr"></div>
+                     <div class="greydient r"></div>
+                     <div class="greydient br"></div>
+                     <div class="greydient b"></div>
+                     <div class="greydient bl"></div>
+                     <div class="greydient l"></div>
+                     <img class="greydient-bg" src="http://d2b4ufapzmnxpw.cloudfront.net/build/2064/static/kronos/images/greydient.png" border="0" />
+                  </div>
+                     <div class="greydient-content">                           
+                        <div id="splitsTableBox">
+                           <div class="clear"></div>
+                           
+                              <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%" id="distanceSplits">
+                                 <tr>
+                                    <td align="left" valign="top" class="tableHeader">km</td>
+                                    <td align="center" valign="top" class="tableHeader">Pace <span class="details">(min/km)</span></td>
+                                    <td align="center" valign="top" class="tableHeader">Elevation <span class="details">(m)</span></td>
+                                 </tr>
+                                 <tr id="distanceSplitTemplate" style="display:none">
+                                    <td align="left" valign="top"><span class="number"></span></td>
+                                    <td align="center" valign="top"><span class="pace"></span></td>
+                                    <td align="center" valign="top"><span class="climb"></span></td>
+                                 </tr>                                
+                               </table>
+                            
+                            
+                            <script type="text/javascript">
+                            activityInfoCallbacks.push(function(activityInfo)
+                            {
+                               if (activityInfo == null) return;
+                               
+                          	    // Populate splits tables if we have splits data
+                               if (activityInfo.distanceSplits)
+                               {
+                                  var distanceSplitTemplate = $("#distanceSplitTemplate");
+                                  $(".distanceSplit").remove();
+                             
+                                  for (var i = 0; i < activityInfo.distanceSplits.length; i++)
+                                  {
+                                     var split = activityInfo.distanceSplits[i];
+                                     distanceSplitTemplate.clone()
+                                           .attr("id", "distanceSplit_" + split.number)
+                                           .addClass(split.number % 2  == 0 ? "even" : "odd")
+                                           .addClass("distanceSplit")
+                                           .find("span.number").text(split.number).end()
+                                           .find("span.pace").text(split.paceStr).end()
+                                           .find("span.climb").text(split.riseStr).end()
+                                           .show()
+                                           .appendTo($("#distanceSplits"));
+                                  }
+
+                                    //fix up outer splits container
+                                  var splitsHeight = $("#splits").height();
+                                  var splitsWidth = $("#splits").width();
+                                  $("#splits .greydient-bg").attr("height", splitsHeight).attr("width", splitsWidth);
+                                  $("#splits .greydient-bg-box").css("height", splitsHeight).css("width", splitsWidth);
+                                  $("#splits .greydient.l, #splits .greydient.r").css("height", splitsHeight-16);
+                               } 
+
+                               //Populate training splits if we have training splits data
+                               if(activityInfo.trainingSplits)
+                               {
+                                  var trainingSplitTemplate = $("#trainingSplitTemplate");   
+                                  $(".trainingSplit").remove();
+
+                               	 for (var i = 0; i < activityInfo.trainingSplits.length; i++)
+                                  {
+                                	    var split = activityInfo.trainingSplits[i];
+                                	    trainingSplitTemplate.clone()
+                                           .attr("id", "trainingSplit_" + split.number)
+                                           .addClass(split.number % 2  == 0 ? "even" : "odd")
+                                           .addClass("trainingSplit")
+                                           .find("span.length").text(split.lengthStr).end()
+                                           .find("span.details").text("("+split.desc+")").end()
+                                           .find("span.pace").text(split.paceStr).end()
+                                           .find("span.climb").text(split.rise.toFixed(0)).end()
+                                           .show()
+                                           .appendTo($("#trainingSplits"));
+                                   }
+
+                                   $("#trainingSplitsToggle").trigger("click");
+                             	     var splitsHeight = $("#splits").height();
+                                   var splitsWidth = $("#splits").width();
+                                   $("#splits .greydient-bg").attr("height", splitsHeight).attr("width", splitsWidth);
+                                   $("#splits .greydient-bg-box").css("height", splitsHeight).css("width", splitsWidth);
+                                   $("#splits .greydient.l, #splits .greydient.r").css("height", splitsHeight-16);
+                                }
+                                else if(activityInfo.distanceSplits)
+                                {
+                                   $("#distanceSplitsToggle").trigger("click");
+                             	     var splitsHeight = $("#splits").height();
+                                   var splitsWidth = $("#splits").width();
+                                   $("#splits .greydient-bg").attr("height", splitsHeight).attr("width", splitsWidth);
+                                   $("#splits .greydient-bg-box").css("height", splitsHeight).css("width", splitsWidth);
+                                   $("#splits .greydient.l, #splits .greydient.r").css("height", splitsHeight-16);
+                                }
+                            });
+                            </script>
+                        </div>
+                  </div>
+                  <div class="clear"></div>
+               </div>
+            </div>
+            <div class="mainContentRight  noFitnessClass">
+                
+               <div class="clear"></div>
+               <div id="activityShareBox">
+                  
+                  <div id="shareActions">
+                     
+                                                                                
+                 </div>
+                 <div class="clear"></div>
+                 
+              </div>
+              <div class="clear"></div>
+              <div class="commentsOuterContainer">
+               <div class="ranWithContainer">
+                  <div id="ranWithDisplayWidget">
+                     
+   
+   
+   
+   
+   
+   <h2>I completed this activity with...</h2>
+   
+   
+      
+      
+         
+      
+   
+   
+   <div id="imageTagContainer" class="imageTagContainer" style="display:none;">
+      
+      
+      
+      
+      
+      
+      
+      <div class="clear"></div>
+   </div>
+   <div class="clear"></div>
+   
+   
+      
+      
+      
+         
+         
+      
+   
+   <div id="widgetEmailTitle" class="label" style="display:none;">as well as: </div>
+   
+   <div id="emailTagContainer" class="emailTagContainer" style="display:none;">
+      
+      <div class="clear"></div>
+   </div>
+   <div class="clear"></div>
+   
+   
+      
+         
+      
+      
+   
+   <p id="noTagsText" style="">
+      No one else
+   </p>
+   
+
+   
+
+                  </div>
+                  
+                  
+                  
+
+	
+
+
+                  
+                  <div class="clear"></div>
+               </div>
+                  <div id="notes">
+                     <h2>How did it go?</h2>
+                     <p>
+                        
+                           
+                           
+                              <span class="italic">This user has not entered a note</span>
+                           
+                        
+                     </p>
+                     <div class="facebookLikeBox">
+                        <fb:like href="http://runkeeper.com/activity_redirect/mg8p9" layout="button_count" show_faces="false" ref="web.activity.shared.facebook.like" width="52" font="arial"></fb:like>
+                     </div>
+                  </div>
+               
+                  <h2 class="commentsHeader">Comments</h2>
+                  
+
+<script type="text/javascript">
+   $(function(){
+      $('textarea').elastic();
+   });
+</script>
+
+   
+   
+
+   <div class="commentsWrapper" style="">
+   <div class="commentsArrow"></div>
+   
+   
+   
+   <div class="comments" style="display:none">
+      
+      <div class="commentsDiv" id="commentsDiv1">
+         
+         
+      </div>
+   </div>
+   
+   </div>
+
+               </div>
+            </div>
+         </div>
+         <div id="rightColumn"></div>
+         <div id="push"></div>
+      </div>
+	   
+      
+      
+   
+      
+      
+      
+      
+      
+       
+     <script type="text/javascript">  
+     _kmq.push(['record', "Viewed other user's activities page while logged out"]);  
+     </script>    
+     
+     
+        <script type="text/javascript">
+        var _paq = _paq || [];
+        _paq.push(["trackConversion", {id: "649N2L7QzFxf"}]);
+        </script>
+                
+                                     
+       
+         
+         </div>
+         
+         <div id="footer" class="">
+         
+            <div id="footer2">
+               <div id="fineprint">copyright &copy; 2011 FitnessKeeper Inc.&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blog.runkeeper.com">Blog</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/contact">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blog.runkeeper.com/press" target="_blank">Press</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blog.runkeeper.com/jobs" target="_blank">Jobs</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/termsofservice">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacypolicy">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://store.runkeeper.com">RunKeeper Store</a></div>
+               <div id="social">
+                  <a href="http://facebook.com/runkeeper" class="socialIcon facebook tiptip" title="Facebook"></a><a href="http://twitter.com/runkeeper" class="socialIcon twitter tiptip" title="Twitter"></a><span id="socialText">find RunKeeper on:</span>
+               </div>
+            </div>
+         
+         </div>
+                       
+      
+
+         
+         
+
+         <div id="notificationBar">
+            <div id="notificationContent">
+               <div class="action"></div>
+               <div class="icon"></div>
+               <div class="mainText"></div>
+               <div class="subText"></div>
+            </div>
+         </div>
+         
+         
+         
+         <div id="fb-root"></div>
+         <script>
+         window.fbAsyncInit = function() {
+            FB.init({appId: '2160ddc8f4e156e53ffd2ae4d2162a59', status: true, cookie: true, xfbml: true});
+            
+            // execute any callbacks that are supposed to run upon confirmed/known facebook user is logged in 
+            FB.getLoginStatus(function(response) {            	 
+   	         if (response.session) {
+                  for (var i=0, n= FB_withLoginStatus.length; i < n; i++) {
+                	   FB_withLoginStatus[i](response.session);
+                  }
+               }
+            });
+         };
+           
+         (function() {
+            var e = document.createElement("script"); e.async = true;
+            e.src = document.location.protocol + "//connect.facebook.net/en_US/all.js#appId=62572192129&amp;xfbml=1";
+            document.getElementById("fb-root").appendChild(e);
+         }());
+
+         function refreshXfbml()
+         {        	   
+            FB.XFBML.parse();
+         }
+         </script>
+         
+         
+         <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+         </script>
+         <script type="text/javascript">
+            var pageTracker = _gat._getTracker("UA-6014756-1");
+            pageTracker._trackPageview();
+         </script>
+         
+         
+         <script type="text/javascript">
+            var _paq = _paq || [];
+            
+            
+         </script>
+         
+         <script src="//d1nu2rn22elx8m.cloudfront.net/performable/pax/0M5NA9.js" type="text/javascript"></script>
+
+      </body>   
+   </html>
+   
+
+
+

@@ -1,7 +1,7 @@
 require File.expand_path("../lib/runkeeper_activities/version", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = 'runkeeper-activites'
+  s.name        = 'runkeeper-activities'
   s.version     = RunKeeperActivites::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Arvid Andersson']

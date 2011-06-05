@@ -2,37 +2,42 @@
 
 The runkeeper-activities gem is a *unoffical* client for {RunKeeper}[http://runkeeper.com]'s activity feed,
 it is not endorsed by or affiliated with FitnessKeeper Inc. It basically do a bit of scraping of RunKeeper's
-public profile pages js-support files.
+public profile pages and js-support files.
 
 == Background
 
 I have been using RunKeeper to track my running for about two years and really like the service. However there
-is no official API or RSS-feed for your data yet, from their support forum it looks like its planned for the future.
+is no official API or RSS-feed for your data yet, from their support forum it looks like it's planned for the future.
 I started to feel the urge to be able to access my recent activites on RunKeeper via Ruby so I made this gem.
 
 == Installation
 
-If your using Bundler add `gem 'runkeeper-activities'` to your Gemfile and do a `bundle install`. 
-Otherwise just do a `gem install runkeeper-activities` and require the gem with `require 'runkeeper-activities'`.
+If your using Bundler add the gem to your Gemfile
+    gem 'runkeeper-activities'
+and do a 
+    bundle install
+
+Not using bundler? Just do a 
+    gem install runkeeper-activitieso
+and require the gem with
+    require 'runkeeper-activities'
 
 == Example
 
-```
-require 'runkeeper-activities'
-user = RunKeeperActivities::User.find_by_username(YOUR_RUNKEEPER_USERNAME)
-activity = user.activities
-
-puts "On #{a.start_time} #{user.name} completed a #{activity.distance} #{activity.distance_unit} #{type.downcase} activity"
-```
+    require 'runkeeper-activities'
+    user = RunKeeperActivities::User.find_by_username(YOUR_RUNKEEPER_USERNAME)
+    activity = user.activities.first
+    puts "On #{activity.start_time} #{user.name} completed a #{activity.distance} #{activity.distance_unit} #{type.downcase} activity"
 
 === Available data
 
-On a User instance you have access to `username`, `name`, `profile_url`, `profile_image_url`, `distance_unit`, `duration_unit`,
-`pace_unit`, `speed_unit`, `calories_unit`, `elevation_unit` and `activities`. 
-For a Activity instance you can access `start_time`, `end_time`, `distance`, `duration`, `page`, `speed`, `calories`, `elevation`
-and `summery`.
-There is a bunch of more data available on RunKeeper that should be pretty easy to add to this gem.
+On a +User+ instance you have access to +username+, +name+, +profile_url+, +profile_image_url+, +distance_unit+, +duration_unit+,
++pace_unit+, +speed_unit+, +calories_unit+, +elevation_unit+ and +activities+. 
+On a +Activity+ instance you can access +start_time+, +end_time+, +distance+, +duration+, +pace+, +speed+, +calories+, +elevation+
+and +summery+.
+
+There is a bunch of more data available on RunKeeper that should be pretty easy to add support for. 
 
 == Contribute
 
-Found something that doens't work or want to a feature? Add an {issue}[https://github.com/arvida/runkeeper-activities/issues] or do a {fork}[http://help.github.com/fork-a-repo/] and send a pull request.
+Found something that doens't work or want to add a feature? Add an {issue}[https://github.com/arvida/runkeeper-activities/issues] or do a {fork}[http://help.github.com/fork-a-repo/] and send a pull request.

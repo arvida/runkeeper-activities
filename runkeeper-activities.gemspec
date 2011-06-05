@@ -19,6 +19,6 @@ Gem::Specification.new do |s|
   s.add_dependency('nokogiri', '>= 1.4.4')
   s.add_dependency('yajl-ruby', '>= 0.8.2')
 
-  s.files        = Dir.glob("{test,lib}/**/*") + %w(README.rdoc runkeeper-activites.gemspec Rakefile Gemfile)
+  s.files        = Dir.glob("{test,lib}/**/*") + %w(README.rdoc runkeeper-activities.gemspec Rakefile Gemfile)
   s.require_path = 'lib'
 end

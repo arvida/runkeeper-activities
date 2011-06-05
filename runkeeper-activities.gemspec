@@ -7,8 +7,8 @@ Gem::Specification.new do |s|
   s.authors     = ['Arvid Andersson']
   s.email       = ['arvid.andersson@oktavilla.se']
   s.homepage    = 'http://github.org/arvida/runkeeper-activities'
-  s.summary     = 'Scraper for latest activites on RunKeeper'
-  s.description = 'A ruby interface for the latest activites on RunKeeper'
+  s.summary     = 'Scraper for latest activities on RunKeeper'
+  s.description = 'A ruby interface for the latest activities on RunKeeper'
 
   s.required_rubygems_version = '>= 1.3.6'
 

@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ['Arvid Andersson']
   s.email       = ['arvid.andersson@oktavilla.se']
-  s.homepage    = 'http://github.org/arvida/runkeeper-activites'
+  s.homepage    = 'http://github.org/arvida/runkeeper-activities'
   s.summary     = 'Scraper for latest activites on RunKeeper'
   s.description = 'A ruby interface for the latest activites on RunKeeper'
 

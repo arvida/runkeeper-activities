@@ -1,6 +1,6 @@
 = RunKeeperActivities gem
 
-The runkeeper-activities gem is a *unoffical* client for {RunKeeper}[http://runkeeper.com]'s activity feed,
+The runkeeper-activities gem is a *unoffical* client for the {RunKeeper}[http://runkeeper.com] activity feed,
 it is not endorsed by or affiliated with FitnessKeeper Inc. It basically do a bit of scraping of RunKeeper's
 public profile pages and js-support files.
 
@@ -18,7 +18,7 @@ and do a
     bundle install
 
 Not using bundler? Just do a 
-    gem install runkeeper-activitieso
+    gem install runkeeper-activities
 and require the gem with
     require 'runkeeper-activities'
 

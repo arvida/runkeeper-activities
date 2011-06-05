@@ -27,7 +27,7 @@ and require the gem with
     require 'runkeeper-activities'
     user = RunKeeperActivities::User.find_by_username(YOUR_RUNKEEPER_USERNAME)
     activity = user.activities.first
-    puts "On #{activity.start_time} #{user.name} completed a #{activity.distance} #{activity.distance_unit} #{activity.type.downcase} activity"
+    puts "On #{activity.start_time} #{user.name} completed a #{activity.distance} #{user.distance_unit} #{activity.type.downcase} activity"
 
 === Available data
 

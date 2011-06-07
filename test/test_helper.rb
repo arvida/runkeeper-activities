@@ -9,7 +9,7 @@ require 'test/unit'
 require 'webmock/test_unit'
 include WebMock::API
 
-require 'runkeeper_activities'
+require 'runkeeper-activities'
 
 class Test::Unit::TestCase
   def data_dir
@@ -25,6 +25,6 @@ class Test::Unit::TestCase
   end
 
   def stub_get_activity
-    stub_request(:get, /runkeeper.com\/user\/.+\/activity\/.+/).to_return(File.new(File.join(data_dir, 'activity.txt')))
+    stub_request(:get, /runkeeper.com\/ajax\/.+/).to_return(File.new(File.join(data_dir, 'activity.txt')))
   end
 end

@@ -10,6 +10,8 @@ I have been using RunKeeper to track my running for about two years and really l
 is no official API or RSS-feed for your data yet, from their support forum it looks like it's planned for the future.
 I started to feel the urge to be able to access my recent activites on RunKeeper via Ruby so I made this gem.
 
+*Update* 7 June - {A ”graph” API is on the way}[http://developer.runkeeper.com]
+
 == Installation
 
 If your using Bundler add the gem to your Gemfile
@@ -34,7 +36,7 @@ and require the gem with
 On a +User+ instance you have access to +username+, +name+, +profile_url+, +profile_image_url+, +distance_unit+, +duration_unit+,
 +pace_unit+, +speed_unit+, +calories_unit+, +elevation_unit+ and +activities+. 
 On a +Activity+ instance you can access +start_time+, +end_time+, +distance+, +duration+, +pace+, +speed+, +calories+, +elevation+
-and +summery+.
++message+ and +summery+.
 
 There is a bunch of more data available on RunKeeper that should be pretty easy to add support for. 
 

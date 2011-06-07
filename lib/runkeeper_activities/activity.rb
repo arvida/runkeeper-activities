@@ -26,51 +26,55 @@ module RunKeeperActivities
     end
 
     def start_time
-      @start_time ||= (raw_data[:points] and raw_data[:points].any?) ? Time.parse(raw_data[:points][0][:time]) : nil
+      @start_time ||= (data[:points] and data[:points].any?) ? Time.parse(data[:points][0][:time]) : nil
     end
 
     def end_time
-      @end_time ||= (raw_data[:points] and raw_data[:points].any?) ? Time.parse(raw_data[:points].last[:time]) : nil
+      @end_time ||= (data[:points] and data[:points].any?) ? Time.parse(data[:points].last[:time]) : nil
     end
 
     def distance
-      @distance ||= raw_data[:statsDistance]
+      @distance ||= data[:statsDistance]
     end
 
     def duration
-      @duration ||= raw_data[:statsDuration]
+      @duration ||= data[:statsDuration]
     end
 
     def pace
-      @pace ||= raw_data[:statsPace]
+      @pace ||= data[:statsPace]
     end
 
     def speed
-      @speed ||= raw_data[:statsSpeed]
+      @speed ||= data[:statsSpeed]
     end
 
     def calories
-      @calories ||= raw_data[:statsCalories]
+      @calories ||= data[:statsCalories]
     end
 
     def elevation
-      @elevation ||= raw_data[:statsElevation]
+      @elevation ||= data[:statsElevation]
+    end
+
+    def message
+      @message ||= data[:feedData][:message]
     end
 
     def summery
       @summery ||= "#{user.name} completed a #{distance} #{user.distance_unit} #{type.downcase} activity"
     end
 
+    def data
+      @data ||= Yajl::Parser.parse(raw_json_data, :symbolize_keys => true)
+    end
+
     def json_endpoint
       @json_endpoint ||= Utils.runkeeper_url("/ajax/pointData?activityId=#{id}")
     end
 
-    def raw_data
-      @raw_data ||= {}.tap do |_raw_data|
-        Yajl::HttpStream.get(json_endpoint, :symbolize_keys => true) do |_data|
-          _raw_data.merge!(_data)
-        end
-      end
+    def raw_json_data
+      @raw_json_data ||= open(json_endpoint).readlines.join("\n").encode('UTF-8')
     end
   end
 end

@@ -42,4 +42,4 @@ There is a bunch of more data available on RunKeeper that should be pretty easy 
 
 == Contribute
 
-Found something that doens't work or want to add a feature? Add an {issue}[https://github.com/arvida/runkeeper-activities/issues] or do a {fork}[http://help.github.com/fork-a-repo/] and send a pull request.
+Found something that doens't work or want to add features? Add an {issue}[https://github.com/arvida/runkeeper-activities/issues] or do a {fork}[http://help.github.com/fork-a-repo/] and send a pull request.
